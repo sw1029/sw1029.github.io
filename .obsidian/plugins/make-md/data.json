@@ -40,10 +40,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//docs/docs/lib",
     "docs/lib/html",
-    "//Tags"
+    "//Tags",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

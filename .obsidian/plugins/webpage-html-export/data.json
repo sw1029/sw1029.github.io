@@ -28,7 +28,7 @@
   "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
-  "vaultTitle": "Speekrr.github.io",
+  "vaultTitle": "윤서웅-개인기록",
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
@@ -43,8 +43,12 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\IRACK\\Desktop\\Speekrr.github.io\\docs",
+  "exportPath": "C:\\\\myDev\\sw1029.github.io\\docs",
   "filesToExport": [
-    []
+    [
+      "무제 파일 1.canvas",
+      "index.md",
+      "README.md"
+    ]
   ]
 }

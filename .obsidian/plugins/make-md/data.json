@@ -42,9 +42,11 @@
   "expandedSpaces": [
     "//docs/docs/lib",
     "docs/lib/html",
-    "//Tags",
     "/",
-    "//하계 모각코 활동"
+    "//Tags",
+    "//하계 모각코 활동",
+    "//docs",
+    "//docs/docs/하계-모각코-활동"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

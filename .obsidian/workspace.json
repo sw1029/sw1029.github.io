@@ -11,9 +11,11 @@
             "id": "17f1611eb989ecaa",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "하계 모각코 활동/1 주차.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.canvas",
+                "file": "하계 모각코 활동/1 주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.canvas",
+                "file": "하계 모각코 활동/1 주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.canvas"
+                "file": "하계 모각코 활동/1 주차.md"
               }
             }
           }
@@ -173,15 +175,8 @@
                 "id": "4565009c68ac4f7a",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "무제 파일 1.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -197,8 +192,10 @@
       }
     ]
   },
-  "active": "4565009c68ac4f7a",
+  "active": "17f1611eb989ecaa",
   "lastOpenFiles": [
+    "하계 모각코 활동/1 주차.md",
+    "하계 모각코 활동/무제 파일.md",
     "test.md",
     "README.md",
     "무제 파일 1.canvas",

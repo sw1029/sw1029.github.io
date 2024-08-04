@@ -43,7 +43,10 @@
     "/",
     "//docs",
     "docs/lib/html",
-    "//1주차"
+    "//docs/docs/1주차",
+    "//Tags",
+    "//docs/docs/tags",
+    "docs/1주차"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

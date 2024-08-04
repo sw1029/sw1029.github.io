@@ -40,12 +40,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "docs/lib/html",
     "/",
-    "//Tags",
-    "//하계 모각코 활동",
     "//docs",
-    "//docs/docs/하계-모각코-활동"
+    "docs/lib/html",
+    "//1주차"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -92,7 +90,7 @@
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
-  "systemName": "Blog",
+  "systemName": "sw1029.github.io",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100

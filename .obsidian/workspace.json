@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17f1611eb989ecaa",
+            "id": "17c0a279ca467570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Vault.md"
               }
             }
           }
@@ -159,20 +159,59 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "17f1611eb989ecaa",
+  "floating": {
+    "id": "be53bd4f4116feb3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a6aefe87870f0a85",
+        "type": "window",
+        "children": [
+          {
+            "id": "9ff9af352081bc14",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d772e7f7df45f078",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 270,
+        "y": 352,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d772e7f7df45f078",
   "lastOpenFiles": [
+    "hello!.canvas",
+    "1주차.md",
+    "무제 파일 1.md",
+    "README.md",
     "docs/lib/styles/other-plugins.css",
     "Vault.md",
     "docs/lib/html/file-tree.html",
     "docs/lib/html",
     "docs/vault.html",
     "docs/무제-파일.html",
-    "무제 파일.md",
     "docs/무제 파일.md",
     "하계 모각코 활동/1 주차.md",
     "하계 모각코 활동/무제 파일.md",
     "test.md",
-    "README.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "2024-07-30.md",
@@ -184,7 +223,6 @@
     "docs/lib/styles/obsidian.css",
     "docs/lib/styles/main-styles.css",
     "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",

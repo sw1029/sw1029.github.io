@@ -46,9 +46,9 @@
   "exportPath": "C:\\\\myDev\\sw1029.github.io\\docs",
   "filesToExport": [
     [
+      "1주차/1주차.md",
       "hello!.canvas",
-      "index.md",
-      "README.md"
+      "Vault.md"
     ]
   ]
 }

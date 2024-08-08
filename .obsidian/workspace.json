@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5c8e330928b1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b8b53b513e17a2f3",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault.md",
+                "file": "2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault.md"
+                "file": "2주차.md"
               }
             }
           }
@@ -196,14 +209,16 @@
       }
     ]
   },
-  "active": "d772e7f7df45f078",
+  "active": "9a5c8e330928b1e7",
   "lastOpenFiles": [
-    "hello!.canvas",
     "1주차.md",
+    "2주차.md",
+    "Tags",
+    "Vault.md",
+    "hello!.canvas",
     "무제 파일 1.md",
     "README.md",
     "docs/lib/styles/other-plugins.css",
-    "Vault.md",
     "docs/lib/html/file-tree.html",
     "docs/lib/html",
     "docs/vault.html",
@@ -222,7 +237,6 @@
     "docs/lib/metadata.json",
     "docs/lib/styles/obsidian.css",
     "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",

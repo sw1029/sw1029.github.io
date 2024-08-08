@@ -40,10 +40,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "docs/1주차",
     "//1주차",
-    "//Tags"
+    "//Tags",
+    "/",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

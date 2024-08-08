@@ -1,18 +1,20 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[윤서웅-개인기록]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>윤서웅-개인기록</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 Aug 2024 06:45:44 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 Aug 2024 06:45:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[1주차]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[윤서웅-개인기록]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>윤서웅-개인기록</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 Aug 2024 06:50:12 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 Aug 2024 06:50:12 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[1주차]]></title><description><![CDATA[ 
  <br>&lt;1 주차 목표&gt;<br>각자 블로그 만들기<br>
 segmentation 개요 이해<br>
 향후 진행 방향에 관한 회의<br>&lt;활동 결과&gt;<br>각 인원 개별 블로그 제작<br>
 segmentation관련 자료 탐구<br>&lt;진행 방식&gt;<br>공통 목표 설정 및 각자 찾아온 자료에 대하여 토론 및 피드백을 통한<br>
-개념 탐구<br>&lt;개인 탐구&gt;<br>segmentation이란 무엇인가?<br>
+개념 탐구<br>&lt;개인 탐구&gt;<br>(segmentation이란 무엇인가? )<br>
 입력된 자료에서  객체를 box의 형태가 아닌 정확한 구역을 지정하여 식별하는 행위<br>
-segmentation은 어떻게 분류되는가?<br>
+<br>
+(segmentation은 어떻게 분류되는가?)<br>
 객체의 종류를 구분하는 classification<br>
 객체의 영역을 box로 구분하는 localization<br>
 box가 아닌 정확한 영역으로 객체를 구분하는 segmentation<br>
-어째서 segmentation이 요구되는가?<br>
+<br>
+(어째서 segmentation이 요구되는가?)<br>
 정확도를 위한 행위<br>&lt;찾은 자료&gt;<br><a rel="noopener" class="external-link" href="https://velog.io/@hajieun02/Image-Segmentation-%EC%A0%95%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B9%84%EA%B5%90" target="_blank">https://velog.io/@hajieun02/Image-Segmentation-%EC%A0%95%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B9%84%EA%B5%90</a><br>
 <a rel="noopener" class="external-link" href="https://velog.io/@lighthouse97/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98Image-Segmentation" target="_blank">https://velog.io/@lighthouse97/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98Image-Segmentation</a><br>
-<a rel="noopener" class="external-link" href="https://www.tensorflow.org/tutorials/images/segmentation?hl=ko" target="_blank">https://www.tensorflow.org/tutorials/images/segmentation?hl=ko</a>]]></description><link>1주차.html</link><guid isPermaLink="false">1주차.md</guid><pubDate>Thu, 08 Aug 2024 06:36:16 GMT</pubDate></item><item><title><![CDATA[2주차]]></title><description><![CDATA[ 
+<a rel="noopener" class="external-link" href="https://www.tensorflow.org/tutorials/images/segmentation?hl=ko" target="_blank">https://www.tensorflow.org/tutorials/images/segmentation?hl=ko</a>]]></description><link>1주차.html</link><guid isPermaLink="false">1주차.md</guid><pubDate>Thu, 08 Aug 2024 06:50:01 GMT</pubDate></item><item><title><![CDATA[2주차]]></title><description><![CDATA[ 
  <br>&lt;2주차 목표&gt;<br>segmentation에서 coco데이터 객체가 왜 쓰이는지 알아봄<br>
 coco 데이터가 어떻게 구성되어 있는지 알아봄 <br>&lt;활동결과&gt; <br>computer vision에서 coco 데이터의 쓰임 확인<br>
 coco 데이터 관련 공부 진행방식 같은 목표와 주제를 가지고 각자 공부한 것에 대해 토론하고 피드백해주는 방식으로 진행하기로 함. <br>&lt;개인 탐구&gt;<br>

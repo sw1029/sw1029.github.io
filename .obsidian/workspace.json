@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6주차.md",
+                "file": "모각코 최종 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6주차.md",
+                "file": "모각코 최종 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6주차.md",
+                "file": "모각코 최종 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6주차.md"
+                "file": "모각코 최종 회고.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "17c0a279ca467570",
   "lastOpenFiles": [
-    "docs/6주차.html",
+    "docs/모각코-최종-회고.html",
+    "모각코 최종 회고.md",
     "6주차.md",
+    "docs/6주차.html",
     "5주차.md",
     "docs/5주차.html",
     "4주차.md",
@@ -181,7 +183,6 @@
     "README.md",
     "docs/lib/styles/other-plugins.css",
     "docs/lib/html/file-tree.html",
-    "docs/lib/html",
     "docs/무제 파일.md",
     "하계 모각코 활동/1 주차.md",
     "하계 모각코 활동/무제 파일.md",
